@@ -1,2 +1,2 @@
 # JasperBritton.github.io
-##Course Assignments for CS160
+## Course Assignments for CS160
